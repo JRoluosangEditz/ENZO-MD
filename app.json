@@ -1,5 +1,5 @@
 {
-  "name":"ENZO",
+  "name":"Vainu",
   "description":"Best whatsapp bot developed by ENZO",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
@@ -9,33 +9,33 @@
   "env":{
     "PREFIX":
     {
-      "description":"choose your prefix of bot",
+      "description":"-",
       "value":".",
       "required":true
     },
     "AUTO_READ_STATUS":
     {
-      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "description":"no",
       "value":"yes",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
-      "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
+      "description":"no",
       "value":"no",
       "required":false
     }
     ,
      "PM_PERMIT" :
      {
-      "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
+      "description":"yes",
       "value":"no",
       "required":false
     }
     ,
     "BOT_NAME" : {
        
-      "description":"put A name for your bot",
-      "value":"𝐄𝐍𝐙𝐎 𝐌𝐃",
+      "description":"Vainu",
+      "value":"Vainu",
       "required":false
 
     } ,
@@ -48,7 +48,7 @@
      },
     "PUBLIC_MODE":
     {
-      "description":"type yes to put your bot on public mode or no to put it on private mod",
+      "description":"yes",
       "value":"yes",
       "required":false
     }
@@ -69,17 +69,17 @@
       "required":true
       
     },
-    "OWNER_NAME":
+    "OWNER_NAME":"Vainu"
     {
     
-    "desc": "Your Name",
+    "desc": "Vainu",
     "required": false,
     "value": "𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇"
   },
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "918415830202",
     "required":false,
     "value": "254784115308"
   },
@@ -101,7 +101,7 @@
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
-    "description": "if you want to enable anti delete message put yes else put no",
+    "description": "no",
     "value": "yes",
         "required": false
   }
