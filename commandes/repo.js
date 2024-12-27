@@ -38,7 +38,7 @@ const date = moment().format('DD/MM/YYYY');
      *ENZO MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ENZOTECH2/ENZO-MD
+> https://github.com/JRohluosangEditz/ENZO-MD
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
